@@ -1458,164 +1458,164 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns11111001101">
-      <string id="three_image_progress_audio">progress</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_correct_choice">%answer% (correct choice)</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_transcript">Transcripts</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
+      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
+      <string id="acc_ordinal_eighth">eighth</string>
+      <string id="acc_ordinal_fifth">fifth</string>
+      <string id="acc_ordinal_first">first</string>
+      <string id="acc_ordinal_fourth">fourth</string>
+      <string id="acc_ordinal_ninth">ninth</string>
+      <string id="acc_ordinal_second">second</string>
+      <string id="acc_ordinal_seventh">seventh</string>
+      <string id="acc_ordinal_sixth">sixth</string>
+      <string id="acc_ordinal_tenth">tenth</string>
+      <string id="acc_ordinal_third">third</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_played">%time% played</string>
+      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
+      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_search_result_status">%count% result found for %term%</string>
+      <string id="acc_search_results_status">%count% results found for %term%</string>
+      <string id="acc_select_an_option">Select an option</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_window_options">Options</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="background_audio">Background audio</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="closed_captions">Captions</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="comma_key">Comma</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="filter">Filter</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
+      <string id="glossary">Glossary</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="modern_video_captions_off">Hide</string>
+      <string id="modern_video_captions_on">Show</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next">NEXT</string>
+      <string id="next_shortcut">Next</string>
+      <string id="outline">Menu</string>
+      <string id="outline_container">Menu</string>
+      <string id="period_key">Period</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="prev">PREV</string>
+      <string id="previous_shortcut">Previous</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="question_mark_key">Question mark</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search:</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_toggle">Search</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="submit">SUBMIT</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="terms">Terms</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
       <string id="three_image_camera_left">camera moved left</string>
       <string id="three_image_camera_right">camera moved right</string>
       <string id="three_image_camera_up">camera moved up</string>
-      <string id="three_image_interaction_free">free exploration mode</string>
-      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
       <string id="three_image_hotspot">hotspot</string>
-      <string id="progress_hour">hour</string>
-      <string id="progress_hours">hours</string>
       <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
       <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
       <string id="three_image_label">label</string>
       <string id="three_image_marker">marker</string>
-      <string id="progress_minute">minute</string>
-      <string id="progress_minutes">minutes</string>
-      <string id="three_image_interaction_next">next</string>
       <string id="three_image_pause_audio">pause audio</string>
       <string id="three_image_pause_video">pause video</string>
       <string id="three_image_play_audio">play audio</string>
       <string id="three_image_play_video">play video</string>
-      <string id="three_image_interaction_prev">previous</string>
-      <string id="progress_second">second</string>
-      <string id="progress_seconds">seconds</string>
-      <string id="three_image_count_of_total">%count% of %total%</string>
-      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
-      <string id="three_image_tooltip">tooltip</string>
-      <string id="three_image_total_items">%total% items</string>
-      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_audio">progress</string>
       <string id="three_image_progress_video">progress</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_total_items">%total% items</string>
       <string id="three_image_video">video</string>
       <string id="three_image_video_volume">video volume</string>
-      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
-      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
-      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
-      <string id="accessible_text">Accessible text</string>
-      <string id="background_audio">Background audio</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
-      <string id="modern_video_settings_close">close video settings</string>
-      <string id="acc_modern_video_fullscreen">full-screen video</string>
-      <string id="modern_video_playback_settings">Video Playback Settings</string>
-      <string id="modern_video_captions_off">Hide</string>
-      <string id="modern_video_captions_on">Show</string>
-      <string id="modern_video_captions_label">Captions</string>
-      <string id="acc_modern_video_settings">video settings</string>
-      <string id="acc_modern_video_mute">mute video</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="acc_modern_video_pause">pause video</string>
-      <string id="acc_modern_video_pip">picture-in-picture</string>
-      <string id="acc_modern_video_play">play video</string>
-      <string id="modern_video_playback_speed_title">Playback Speed</string>
-      <string id="acc_modern_video_captions">video captions</string>
-      <string id="acc_modern_video_playback_speed">playback speed</string>
-      <string id="acc_modern_video_volume">video volume</string>
-      <string id="closed_captions">Captions</string>
-      <string id="comma_key">Comma</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="next">NEXT</string>
-      <string id="prev">PREV</string>
-      <string id="submit">SUBMIT</string>
-      <string id="playback_speed_title">Playback Speed</string>
-      <string id="playback_speed_normal">Normal</string>
-      <string id="continue">Continue</string>
-      <string id="glossary">Glossary</string>
-      <string id="terms">Terms</string>
-      <string id="action">Action</string>
-      <string id="alt_key">Alt</string>
-      <string id="ctrl_key">Ctrl</string>
-      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="mute_shortcut">Mute / unmute</string>
-      <string id="next_shortcut">Next</string>
-      <string id="playpause_shortcut">Play / pause</string>
-      <string id="previous_shortcut">Previous</string>
-      <string id="replay_shortcut">Replay</string>
-      <string id="shift_key">Shift</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="submit_shortcut">Submit</string>
-      <string id="acctext_shortcut">Toggle accessible text</string>
-      <string id="background_audio_shortcut">Toggle background audio</string>
-      <string id="closedcaptions_shortcut">Toggle captions</string>
-      <string id="fullscreen_shortcut">Toggle full-screen</string>
       <string id="togglezoom">Toggle zoom to fit</string>
-      <string id="outline">Menu</string>
       <string id="transcript">Transcript</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="period_key">Period</string>
-      <string id="question_mark_key">Question mark</string>
-      <string id="resources">Resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="close">Close</string>
-      <string id="acc_select_an_option">Select an option</string>
-      <string id="acc_ordinal_eighth">eighth</string>
-      <string id="acc_ordinal_fifth">fifth</string>
-      <string id="acc_ordinal_first">first</string>
-      <string id="acc_ordinal_fourth">fourth</string>
-      <string id="acc_locked">locked</string>
-      <string id="outline_container">Menu</string>
-      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
-      <string id="acc_ordinal_ninth">ninth</string>
-      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
-      <string id="acc_correct_choice">%answer% (correct choice)</string>
-      <string id="acc_search_input">search</string>
-      <string id="acc_search_result_status">%count% result found for %term%</string>
-      <string id="acc_search_results_status">%count% results found for %term%</string>
-      <string id="acc_ordinal_second">second</string>
-      <string id="acc_played">%time% played</string>
-      <string id="acc_ordinal_seventh">seventh</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
-      <string id="acc_ordinal_sixth">sixth</string>
-      <string id="acc_skipnavigation">Back to top</string>
-      <string id="acc_slide_progress">slide progress</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="acc_ordinal_tenth">tenth</string>
-      <string id="acc_ordinal_third">third</string>
-      <string id="acc_visited">visited</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="search_in">Search in:</string>
-      <string id="filter">Filter</string>
-      <string id="search">Search:</string>
-      <string id="transcript_chk">Notes</string>
-      <string id="search_results">Search Results</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="streaming_video_local_playback_learn_more">Learn More</string>
-      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
-      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
-      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
-      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
-      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
-      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
-      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
-      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
-      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
-      <string id="acc_play">Play (Ctrl+Alt+P)</string>
-      <string id="acc_playback_speed">Playback speed</string>
-      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
-      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
-      <string id="search_toggle">Search</string>
-      <string id="acc_settings">Settings</string>
-      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
-      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
       <string id="transcript_auto_scroll">Autoscroll</string>
-      <string id="acc_window_close">Close</string>
-      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
       <string id="video_transcript_mobile_label">Transcript</string>
-      <string id="acc_window_move">Move window</string>
-      <string id="acc_modern_video_transcript">Transcripts</string>
-      <string id="acc_window_resize">Resize window</string>
       <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
       <string id="video_transcript_select_track">Select track</string>
-      <string id="transcript_show_timestamp">Show timestamps</string>
       <string id="video_transcript_title">Transcript</string>
-      <string id="acc_window_options">Options</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="continue">Continue</string>
       <string id="invalid_prompt_button">OK</string>
       <string id="invalid_prompt_message">You must complete the question before submitting.</string>
       <string id="invalid_prompt_title">Invalid Answer</string>
@@ -1682,8 +1682,8 @@
             <slidelink slideid="_player.6AhznjMpSOh.6WI8sbNu9IV" displaytext="Key Takeaways" expand="false" type="slide" translationId="6de1z4VmsBP" />
             <slidelink slideid="_player.6AhznjMpSOh.6BlS2agX1M0" displaytext="County&amp;apos;s/Tribe&amp;apos;s FFPS Leadership Team" expand="false" type="slide" translationId="63Q9yHsSXN7" />
             <slidelink slideid="_player.6AhznjMpSOh.63OTIpdWqbF" displaytext="CPP Leadership Team Members" expand="false" type="slide" translationId="6SeCK6kjbGS" />
-            <slidelink slideid="_player.6AhznjMpSOh.6TKScOJnZRw" displaytext="County or Tribal FFPS Leadership Team" expand="false" type="slide" translationId="6378rs3ufbN" />
-            <slidelink slideid="_player.6AhznjMpSOh.6mMcuboWjBW" displaytext="Ongoing Engagement Best Practices" expand="false" type="slide" translationId="6OZK9vX7zYw" />
+            <slidelink slideid="_player.6AhznjMpSOh.6TKScOJnZRw" displaytext="County or Tribal CQI Team" expand="false" type="slide" translationId="6378rs3ufbN" />
+            <slidelink slideid="_player.6AhznjMpSOh.6mMcuboWjBW" displaytext="Why Do Counties Need to Establish CQI Teams?" expand="false" type="slide" translationId="6OZK9vX7zYw" />
             <slidelink slideid="_player.6AhznjMpSOh.5qdxhRyUI6u" displaytext="Maximum of Three County or Tribal FFPS CQI Implementation Teams" expand="false" type="slide" translationId="5nwIIbcWlEg" />
             <slidelink slideid="_player.6AhznjMpSOh.62AU7j6vayV" displaytext="Check Your Learning – Lesson 2" expand="false" type="slide" translationId="5Ym2iBECh6K" />
             <slidelink slideid="_player.6AhznjMpSOh.5tUmybOxldR" displaytext="Question 1" expand="false" type="slide" translationId="6GVrpozOqFt" />
@@ -1907,7 +1907,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="The EBP Measurement Framework aligns with the federal data element requirements identified in Revised Technical Bulletin #1 and each model purveyor/developer's capacity, fidelity, and outcome requirements."&gt;
+      &lt;Span Text="The EBP Measurement Framework aligns with the federal data element requirements identified in Revised Technical Bulletin #1 and each model purveyor/developer's capacity, reach, fidelity, and outcome requirements."&gt;
         &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2336,11 +2336,11 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="State-Level Governance is depicted in the top half of this visual. &amp;#xA;" /&gt;
+      &lt;Span Text="State-Level Governance is depicted in the top half of this visual. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
@@ -2364,11 +2364,11 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="California’s commitment to CQI is demonstrated through a centralized unit within CDSS that oversees FFPS CQI and collaborates with CPOC and CWDA to enhance strategic oversight and alignment. It includes Tribes, lived experts, and community experts to ensure decision-making reflects real-world experiences.&amp;#xA;" /&gt;
+      &lt;Span Text="California’s commitment to CQI is demonstrated through a centralized unit within CDSS that oversees FFPS CQI and collaborates with the Chief Probation Officers of California (CPOC) and the Child Welfare Directors Association of California (CWDA) to enhance strategic oversight and alignment. It includes Tribes, lived experts, and community experts to ensure decision-making reflects real-world experiences.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="12" TrailingMargin="0" FirstLineMargin="12" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
@@ -2380,35 +2380,11 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="At the core of this structure is the FFPS Advisory Committee, which:&amp;#xA;" /&gt;
+      &lt;Span Text="At the core of this structure is the FFPS Advisory Committee, which provides oversight and promotes FFPS CQI by monitoring the Five-Year State Prevention Plan. The FFPS Advisory Committee also coordinates feedback loops to ensure communication between state and county/Tribal levels and community-based organizations, and it emphasizes strategic alignment, shared learning and equity. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Provides oversight and promotes FFPS CQI by monitoring the Five-Year Prevention Plan.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Coordinates feedback loops to ensure communication between state and county/Tribal levels and community-based organizations.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Emphasizes strategic alignment, shared learning, and equity.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="12" TrailingMargin="0" FirstLineMargin="12" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
@@ -2420,39 +2396,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Four subcommittees support focused leadership in critical areas:&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="CQI Subcommittee: Oversees the CQI plan, ensuring consistent implementation across FFPS and non-FFPS services.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Training &amp;amp; TA Subcommittee: Builds CQI capacity through training and technical assistance.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Community Pathway Subcommittee: Integrates community-based providers into the prevention strategy and includes their data in the CQI framework.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="IV-E Advisory Subcommittee: Aligns CQI with federal mandates and ensures efficient use of Title IV-E funding.&amp;#xA;" /&gt;
+      &lt;Span Text="There are five subcommittees that support focused leadership in critical areas. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
@@ -2460,27 +2404,51 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="It’s important to note that these subcommittees have a broader focus than CQI but play a critical role in coordinating improvement efforts. &amp;#xA;" /&gt;
+      &lt;Span Text="The Fiscal Advisory Subcommittee engages state, county, Tribal, and community fiscal and program leaders in collaborative problem-solving, the development of fiscal guidance and strategies, and the identification of sustainable and transparent approaches to support FFPS implementation and Comprehensive Prevention Plans. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
+      &lt;Span Text="The CQI Subcommittee oversees the CQI plan, ensuring consistent implementation across FFPS and non-FFPS services.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="County or Tribal-(for Yurok and Karuk Tribes) Level Governance and the Regional Prevention Continuous Quality Improvement Collaborative depicted here are recommended structures.  County and Tribal Governance ensures FFPS CQI practices are embedded into local decision-making and workflows, allowing for alignment with local priorities and EBP providers.&amp;#xA;" /&gt;
+      &lt;Span Text="The Training &amp;amp; TA Subcommittee builds CQI capacity through training and technical assistance.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="12" TrailingMargin="0" FirstLineMargin="12" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Community Pathway Advisory Subcommittee integrates community-based providers into the prevention strategy and includes their data in the CQI framework.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="And the IV-E Advisory Subcommittee aligns CQI with federal mandates and ensures efficient use of Title IV-E funding.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It's important to note that these subcommittees have a broader focus than CQI but play a critical role in coordinating improvement efforts. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
@@ -2492,41 +2460,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="The Prevention Continuous Quality Improvement Collaborative (PCC) is recommended as part of the CQI Plan.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="It will support shared learning, consistent CQI strategies, and data-driven decision-making.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Although not in place yet, PCC is intended to facilitate peer learning and align CQI strategies across counties.&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="&amp;#xA;"&gt;
-        &lt;Style FontIsItalic="True" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Local Implementation Structure&amp;#xA;" /&gt;
+      &lt;Span Text="Next, Regional Prevention Continuous Quality Improvement Collaborative (PCC) is depicted here as a recommended structure as part of the CQI Plan. It will support shared learning, consistent CQI strategies, and data-driven decision-making. Although it is not in place yet, the PCC is intended to facilitate peer learning and align CQI strategies across counties. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
@@ -2534,7 +2468,31 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="County and Tribal FFPS Leadership Teams oversee local FFPS implementation. They bridge state-level guidance with local application, ensuring strategies are tailored to community needs. Counties may find they have an existing venue that will meet this need. It may be the Interagency Leadership Team (ILT) connected to AB 2083, or another cross-sector collaborative team. &amp;#xA;" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Lastly, County of Tribal Level Governance is depicted here as a recommended local implementation structure. County/Tribal governance ensures that FFPS CQI practices are embedded into local decision-making and workflows, allowing for alignment with local priorities and EBP providers. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="County/Tribal FFPS Leadership Teams oversee local FFPS implementation. They bridge state-level guidance with local application, ensuring strategies are tailored to community needs. Counties may find that they have an existing structure that will meet this need. It may be the Interagency Leadership Team (ILT) connected to AB 2083 or another cross-sector collaborative team. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
@@ -2545,7 +2503,7 @@
       &lt;Span Text="County or Tribal-Specific CQI Implementation Teams are tailored to each county's/Tribe’s needs, the EBPs they implement, and the community-based providers delivering the EBPs such as:&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
@@ -2553,7 +2511,7 @@
       &lt;Span Text="Home Visiting CQI Team&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
@@ -2561,7 +2519,7 @@
       &lt;Span Text="Motivational Interviewing CQI Team&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="2" TrailingMargin="0" FirstLineMargin="2" LineSpacingRule="SinglePt5"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
@@ -2569,8 +2527,8 @@
       &lt;Span Text="Mental Health CQI Team&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="74" TrailingMargin="0" FirstLineMargin="74" ListLevel="2" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
@@ -2582,7 +2540,23 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Counties/Tribes have the flexibility to create new prevention CQI teams or integrate FFPS CQI into existing structures (more on this in a bit). Today’s module will focus on the county/Tribal and regional aspects of the governance structure." /&gt;
+      &lt;Span Text="Counties/Tribes have the flexibility to create new prevention CQI teams or integrate FFPS CQI into existing structures (more on this in a bit).&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="This module will focus on the county/Tribal and regional aspects of the governance structure." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -2687,10 +2661,10 @@
       <slidetranscript slideid="6AhznjMpSOh.6b0qQeTr7bb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="CDSS has developed a contractual relationship with Chapin Hall to ensure each county/Tribe has the opportunity to recruit, select, and compensate a maximum of three expert consultants. The consultants will participate in the county/Tribal FFPS Leadership Team, Regional Prevention CQI Collaborative, and the county's/Tribe's CQI Implementation Team(s) depending on the array of EBPs included in the county's/Tribe's Comprehensive Prevention Plan." /&gt;
+      &lt;Span Text="CDSS has developed a contractual relationship with Chapin Hall to ensure each county/Tribe has the opportunity to recruit, select, and compensate three expert consultants. The consultants will participate in the county/Tribal FFPS Leadership Team, Regional Prevention CQI Collaborative, and the county's/Tribe's CQI Implementation Team(s) depending on the array of EBPs included in the county's/Tribe's Comprehensive Prevention Plan." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -2706,7 +2680,7 @@
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="First, those with personal or lived experience inside the child welfare or probation system. This could be experience as a youth in care (who is now over 18) or a parent or caregiver. Your social workers are going to be critical when recruiting this type of Expert Consultant. &amp;#xA;" /&gt;
+      &lt;Span Text="First, those with personal or lived experience inside the child welfare or probation system. This could be experience as a youth in care (who is now over 18) or a parent or caregiver. Social workers are going to be a helpful resource when recruiting this type of Expert Consultant.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -3198,7 +3172,19 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="You’re an important component of your county's/Tribe's CQI work and can ensure expert consultants are treated with the respect they deserve.&amp;#xD;As the CPP &amp;amp;/Or CQI Lead, you are responsible for:&amp;#xD;Creating welcoming, psychologically safe environments&amp;#xD;Sharing how their input influences decisions&amp;#xD;Modeling authentic engagement for your team&amp;#xD;Remember, there is support available:&amp;#xD;Working with Expert Consultants Guide &amp;#xD;Chapin Hall consultation and technical assistance&amp;#xD;Your role is to create conditions for authentic partnership and support Expert Consultants' meaningful contribution to improving prevention services for families.&amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="You’re an important component of your county's/Tribe's CQI work and can ensure expert consultants are treated with the respect they deserve.&amp;#xD;As the CPP &amp;amp;/Or CQI Lead, you are responsible for:&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Planning and delivering county or Tribal-specific orientation&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Being the primary contact/support person for Expert Consultants&amp;#xD;Creating welcoming, psychologically safe environments&amp;#xD;Sharing how their input influences decisions&amp;#xD;Modeling authentic engagement for your team&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xD;Remember, there is support available:&amp;#xD;Working with Expert Consultants Guide &amp;#xD;Chapin Hall consultation and technical assistance&amp;#xD;Your role is to create conditions for authentic partnership and support Expert Consultants' meaningful contribution to improving prevention services for families.&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3447,49 +3433,79 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6AhznjMpSOh.5qdxhRyUI6u" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="26">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6AhznjMpSOh.5qdxhRyUI6u" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="30">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Let’s review the role of a county's/Tribe's FFPS Leadership Team if not already in place.  Counties may be tapping an existing group like their Interagency Leadership Team (ILT) or Cross-sector Collaborative to meet this need and the leads may differ significantly, take a look at the overarching purpose and objectives for this leadership team and consider the following: &amp;#xA;" /&gt;
+      &lt;Span Text="The best practice recommendation in the CQI Plan is to establish dedicated CQI Implementation Teams aligned with the specific EBPs outlined in your county's/Tribe's CPP. This targeted approach supports fidelity and addresses challenges unique to each EBP. &amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Where are decisions impacting FFPS implementation made? &amp;#xA;" /&gt;
+      &lt;Span Text="This includes a maximum of three teams:&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Who should or currently oversees efforts and provides strategic input? &amp;#xA;" /&gt;
+      &lt;Span Text="Motivational Interviewing (MI) &amp;#xD;Home Visiting (HV) EBPs &amp;#xD;Mental Health (MH) EBPs &amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="How often is progress monitored? &amp;#xA;" /&gt;
+      &lt;Span Text="By aligning teams with specific EBPs, counties/tribes can better accomplish the purpose of identifying data trends, challenges, and opportunities for improvement in delivery of evidence-based practices..&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Where could alignment with other prevention initiatives be strengthened? &amp;#xA;" /&gt;
+      &lt;Span Text="County's/Tribe's FFPS CQI Teams have critical objectives focused on maintaining the CQI data infrastructure:&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="How can the feedback loop with partners be improved? &amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="Facilitate data collection &amp;amp; exchange for timely sharing of EBP data (reach, capacity, outcomes, fidelity) to inform decision-making across governance levels.&amp;#xD;Review data regularly using CARES Dashboards to monitor progress, identify barriers, and make data-driven decisions.&amp;#xD;Analyze data and implement the 5-Step CQI Process to test changes, learn from outcomes, and implement sustainable improvements, driving continuous learning and system improvements.&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="More information will be shared shortly about the standardized fidelity and outcomes templates and CARES training will provide a deeper dive into accessing reach and capacity reports.” &amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="Frequency of team meetings is tiered: &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="During the first year, monthly meetings for each CQI team (max of three) or designate team are recommended to ensure consistent monitoring of reach and capacity data using the CARES dashboards and provider data. These initial meetings should focus on identifying implementation challenges, tracking progress, and making timely adjustments to address issues such as underutilization or disparities in service access. While outcome and fidelity data will only be formally collected biannually or annually for PAT, early review of available data is critical to inform timely decision-making and course corrections. &amp;#xD;In the second year, it is recommended that the meeting cadence shift to a quarterly schedule as counties move toward more in-depth analyses of EBP effectiveness and fidelity. This transition supports deeper evaluations of longer-term trends and outcomes, providing an opportunity to assess whether EBPs are achieving their intended goals and maintaining adherence to model standards. Capacity and reach data should continue to be reviewed regularly to monitor service accessibility and utilization, ensuring that counties remain responsive to family and community needs. &amp;#xD;After the second year, counties may adjust the frequency of team meetings on an ad hoc basis to address specific challenges or respond to emerging needs. This flexible approach enables counties to maintain a responsive CQI process while ensuring that data collection and analysis remain consistent and aligned with local and statewide goals. By adapting their meeting cadence over time, teams can sustain momentum while focusing on the most pressing issues at each stage of implementation. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Most importantly, each team should include a diverse set of members to ensure comprehensive decision-making and promote equity.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Recommended members includes compensated Tribal representatives or advocates and compensated lived/community experts, county's/Tribe's child welfare and probation FFPS/CQI leads and county's/Tribe's child welfare and probation administrators, contract holders, and EBP providers (recognizing this may be impossible for large or medium size counties with multiple providers).&amp;#xD;Diverse membership isn’t just a checkbox—it ensures decisions are informed by real-world experiences and promotes equity through an inclusive approach.&amp;#xD;CDSS is committed to supporting counties in compensating Tribal representatives, lived experts, and community experts for their participation – more on this will be shared in coming months.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="In the next lesson, we will learn more about the process of maintaining a CQI Data Infrastructure.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -3498,7 +3514,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6AhznjMpSOh.62AU7j6vayV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="30">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6AhznjMpSOh.62AU7j6vayV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="31">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3506,7 +3522,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6AhznjMpSOh.5tUmybOxldR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="31">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6AhznjMpSOh.5tUmybOxldR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="32">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -3559,7 +3575,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6AhznjMpSOh.62AWVz5ov5F" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="32">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6AhznjMpSOh.62AWVz5ov5F" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="33">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -3621,7 +3637,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.68UwC636a7l" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="33">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.68UwC636a7l" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="34">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3637,7 +3653,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.6AHfKvaVknY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="34">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.6AHfKvaVknY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="35">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3672,7 +3688,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.64pmguQSNvs" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="35">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.64pmguQSNvs" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="36">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3684,7 +3700,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="We will go into more detail of data management in a bit, but as a reminder, capacity and reach data will be collected by the provider via the Provider Portal on a monthly basis. Outcome and fidelity data will be collected by the provider or purveyor (for models where there are purveyor data management systems and/or reporting available) and reviewed quarterly in the county CQI teams. What is also important to note here, is that this data related to prevention efforts must be fully integrated into all CQI processes, including the C-CFSR process at the county or Tribal-level to ensure comprehensive oversight and alignment with other CQI efforts. Think of this as a new data element that will now be incorporated to inform the larger CQI work happening at the county or Tribe (and at the state).&amp;#xA;" /&gt;
+      &lt;Span Text="We will go into more detail of data management in a bit, but as a reminder, capacity and reach data will be collected by the provider via the CWS-CARES Provider Portal on a monthly basis. Outcome and fidelity data will be collected by the provider or purveyor (for models where there are purveyor data management systems and/or reporting available) and reviewed quarterly in the county CQI teams. What is also important to note here, is that this data related to prevention efforts must be fully integrated into all CQI processes, including the C-CFSR process at the county or Tribal-level to ensure comprehensive oversight and alignment with other CQI efforts. Think of this as a new data element that will now be incorporated to inform the larger CQI work happening at the county or Tribe (and at the state).&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3722,7 +3738,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.6Kv8X7iU0ZN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="36">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.6Kv8X7iU0ZN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="37">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3754,31 +3770,19 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.6MFiEX597N8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="37">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="The Outcomes Aggregate tab from the PAT Fidelity and Outcome Report Excel Template is depicted here on the screen. Providers will use the template each month to track clinician fidelity and youth outcomes by accessing data from the PAT Penelope or Visit Tracker data system. The aggregate tab will pull data from the outcomes tab. This data should be reviewed and discussed each quarter at the HV CQI Implementation Team. It is important to note, a fidelity and outcomes aggregate tab is included in the same excel template. The county/Tribal CPP/CQI Lead will use this aggregated data to complete the CARES Outcomes &amp;amp; Fidelity Template. More on the next slide.&amp;#xD;&amp;#xD;Select the tab below to download the Excel template." /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="6jZEJ7uqRkW.6lBJozB1nHM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="38">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="On an annual basis, the county, Tribal CPP, and CQI Lead(s) will:&amp;#xA;" /&gt;
+      &lt;Span Text="On an annual basis, the county/Tribal CPP/CQI Lead(s) will:&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Complete Appendix C: Provider Outcome and Fidelity Template using the year end data captured in the Excel Outcomes Aggregate tab. &amp;#xA;" /&gt;
+      &lt;Span Text="Complete the Required CWS-CARES Fidelity and Outcomes Reports using the year end data captured in the Optional Fidelity and Outcomes Templates or from PAT-generated reports. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Submit the outcomes PDF template to CDSS via email FFPSApreventionservices@dss.ca.gov &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="The CDSS FFPS team will upload provider outcomes data into the CARES backend for the county/Tribe. &amp;#xA;" /&gt;
+      &lt;Span Text="Submit the outcomes data via the CWS-CARES Provider Portal. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3786,7 +3790,15 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Counties/Tribes will be able to access a CARES Tableau data set to compare their outcomes with those of other counties. It is important to note, Appendix C in the PAT CQI Brief also includes a fidelity template to report annual data to CDSS. The outcomes template is the only one depicted here.&amp;#xD;&amp;#xD;Select the tab on the right to download the PAT CQI Brief." /&gt;
+      &lt;Span Text="Counties/Tribes will be able to access a CARES Tableau data set to compare their outcomes to those of other counties.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="It is important to note that the Required CWS-CARES Fidelity and Outcomes Reports also includes a fidelity report to submit annual data to CDSS via the CWS-CARES Provider Portal. The outcomes report is the only one depicted here." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -3810,7 +3822,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="CARES is the second level of data storage. All EBP data (including reach, capacity, outcomes and fidelity) will be stored (reach &amp;amp; capacity) or uploaded (fidelity &amp;amp; outcomes) into CARES. This centralized storage allows counties and the state to access and use the data for CQI purposes, enabling data aggregation and visualization to support oversight and strategic decision-making." /&gt;
+      &lt;Span Text="CARES is the second level of data storage. All EBP data (including reach, capacity, outcomes, and fidelity will be stored or uploaded into CWS-CARES. This centralized storage allows counties and the state to access and use the data for CQI purposes, enabling data aggregation and visualization to support oversight and strategic decision-making." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -3826,7 +3838,15 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.5uLw6YOqbIE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="42">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.6MFiEX597N8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="42">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The Outcomes Aggregate tab from the PAT Fidelity and Outcome Report Excel Template is depicted here on the screen. Providers will use the template each month to track clinician fidelity and youth outcomes by accessing data from the PAT Penelope or Visit Tracker data system. The aggregate tab will pull data from the outcomes tab. This data should be reviewed and discussed each quarter at the HV CQI Implementation Team. It is important to note, a fidelity and outcomes aggregate tab is included in the same excel template. The county/Tribal CPP/CQI Lead will use this aggregated data to complete the CARES Outcomes &amp;amp; Fidelity Template. More on the next slide.&amp;#xD;&amp;#xD;Select the tab below to download the Excel template." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6jZEJ7uqRkW.5uLw6YOqbIE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="43">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3838,7 +3858,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.5gQKoj60Fk5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="43">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.5gQKoj60Fk5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="44">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3854,7 +3874,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.5unm7SimgdS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="44">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.5unm7SimgdS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="45">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3862,7 +3882,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.6lAO1MD9GPF" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="45">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.6lAO1MD9GPF" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="46">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3894,7 +3914,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.6Txu53sFbS0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="46">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.6Txu53sFbS0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="47">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3902,7 +3922,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.5boVBMCksGz" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="47">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.5boVBMCksGz" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="48">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3922,7 +3942,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6jZEJ7uqRkW.6Cn64p3YVQ5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="48">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6jZEJ7uqRkW.6Cn64p3YVQ5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="49">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3930,7 +3950,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6qlrBgEK6h0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="49">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6qlrBgEK6h0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="50">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3954,19 +3974,23 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6rBVwoNGUWS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="50">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6rBVwoNGUWS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="51">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="The initial county or Tribal technical assistance mechanism will be in the form of regional Prevention Continuous Quality Improvement Collaboratives. The PCC is envisioned as a strategic opportunity for counties to engage in a structured, data-driven approach to improving EBP implementation, enhancing regional collaboration, and promoting shared learning. The PCC is an opt-in initiative, meaning that participation is highly encouraged but not required. It is not a federal CQI requirement, but it provides counties with an invaluable opportunity to enhance their CQI processes and implementation efforts; and learn from other counties or Tribes.&amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="The initial county/Tribal technical assistance mechanism will be in the form of regional Prevention Continuous Quality Improvement Collaboratives, or PCCs. The PCC is envisioned as a strategic opportunity for counties to engage in a structured, data-driven approach to improving EBP implementation, enhancing regional collaboration, and promoting shared learning. The PCC is an opt-in initiative, meaning that participation is highly encouraged but not required. It is not a federal CQI requirement, but it provides counties with an invaluable opportunity to enhance their CQI processes and implementation efforts; and learn from other counties/Tribes.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Seven regional collaboratives will meet virtually quarterly in the first year of implementation to review reach, capacity, outcome, and fidelity data strengths and challenges.  County/Tribal CPP teams are encouraged to meet in-person and connect virtually with their regional colleagues. Each collaborative will last approximately 4 hours. Members of the county's or Tribe's FFPS CQI team(s), including lived experts and contract holders or providers, will participate in the regional PCC and bring data and brainstorm strategies with their regional colleagues." /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Six regional collaboratives will meet virtually each quarter in the first year of implementation to review reach, capacity, outcome, and fidelity data strengths and challenges. Though the PCCs will be delivered virtually, County/Tribal CPP teams are encouraged to meet in-person locally and connect virtually with their regional colleagues. Each session will last approximately 3.5 hours. Members of the county's/Tribe's FFPS CQI team(s), including lived experts and contract holders or providers, will participate in the regional PCC and bring data and brainstorm strategies with their regional colleagues." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6icc0AAadQo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="51">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6icc0AAadQo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="52">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3974,7 +3998,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6dJTAg1FlkU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="52">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6dJTAg1FlkU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="53">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3990,7 +4014,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6YiOJjq63QO" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="53">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6YiOJjq63QO" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4002,7 +4026,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6XAj0TiCEGw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6XAj0TiCEGw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="55">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4014,7 +4038,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6k71pq1iedU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="55">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6k71pq1iedU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="56">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4022,7 +4046,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Chapin Hall will provide technical assistance and facilitation support for the quarterly regional PCCs. A representative will reach out to a few counties or a Tribe's team a month in advance of each convening to help select a topic and prepare a data presentation for their collaborative. &amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="Chapin Hall will provide technical assistance and facilitation support for the quarterly regional PCCs. A representative will reach out to a few counties or a Tribe's team a month in advance of each convening to help select a topic and prepare a data presentation for their collaborative. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4030,11 +4054,51 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Presentations can focus on reach, capacity, fidelity, and/or outcomes related to one or more EBPs and share: &amp;#xD;Strengths&amp;#xD;Challenges&amp;#xD;Strategies deployed or inconsideration&amp;#xD;Supports needed" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="·" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Presentations can focus on reach, capacity, fidelity, and/or outcomes related to one or more EBPs and share: &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="·" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Strengths&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="·" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Challenges&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="·" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Strategies deployed or inconsideration&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="·" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Supports needed" /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.5lpXb5nJniW" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="56">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.5lpXb5nJniW" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="57">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4042,11 +4106,11 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.65Dr98XloFW" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="57">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.65Dr98XloFW" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="58">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Question #1, True or False: Counties, Yurok, and Karuk Tribes can expect to join four regional PCCs and will receive technical support from Chapin Hall when it is their turn to present data?.&amp;#xA;" /&gt;
+      &lt;Span Text="Question #1, True or False: The PCC is an opt-in initiative, where participation is highly encouraged but not required.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4064,7 +4128,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="63g097SeawT.6DjJmCqur92" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="58">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="63g097SeawT.6DjJmCqur92" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="59">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4086,7 +4150,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5ZLzkwL1Ef3.6hHUcDyhRVd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="59">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="5ZLzkwL1Ef3.6hHUcDyhRVd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="60">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4104,7 +4168,51 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5ZLzkwL1Ef3.5xjenWhV9Ad" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="60">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="5ZLzkwL1Ef3.6XzxgDPdM1n" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="61">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Data is the backbone of CQI. It helps counties monitor service delivery, identify disparities, and adjust strategies in real time.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="CWS-CARES Dashboards&amp;#xD;These will provide role-specific, real-time data on reach, capacity, fidelity, and outcomes.&amp;#xD;Enables quick decision-making and continuous learning.&amp;#xD;Example: If CARES shows lower engagement in rural areas, the county/Tribe can investigate root causes and adjust outreach or delivery methods.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Provider Portal &amp;amp; Reporting Tools&amp;#xD;The Provider Portal (part of CARES) will allow EBP providers to submit monthly reach and capacity data.&amp;#xD;Templates submitted 1–2x/year will track outcomes and fidelity across EBPs.&amp;#xD;This ensures counties and the state have timely, accurate info.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="CQI Team Data Reviews&amp;#xD;County's/Tribe's teams will review CARES data in team meetings to guide decisions.&amp;#xD;These reviews support root cause analysis, identify trends, and help teams stay focused on outcomes.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Feedback loops = statewide learning&amp;#xD;Local insights don’t stay local—they feed into PCCs, then up to CDSS.&amp;#xD;County/Tribe-level CQI teams share data with PCCs, promoting peer learning and aligning regional strategies.&amp;#xD;Regional insights inform CDSS's state-level decision-making, helping refine policies, allocate resources, and provide targeted technical assistance. &amp;#xD;CFSR findings for FM/VFM/EPY populations integrated. &amp;#xD;It’s how we keep the system responsive and equitable statewide.&amp;#xD;Ensure local insights shape statewide CQI strategies." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5ZLzkwL1Ef3.6hRqXoaex2y" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="62">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="This visual shows how data moves across and between all levels—state, regional, and county/Tribe. It’s not one-directional—it’s a true feedback loop that supports continuous learning and improvement. This flow of information supports data-driven decision-making and CQI at every level.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="First, the CDSS FFPS Team starts the process by using regional reports to refine statewide goals and identify trends in EBP measures and priority outcomes. They monitor county/Tribal performance to pinpoint high-performing areas and those needing additional support.&amp;#xD;Next, the Statewide Committees—including FFPS, CQI, IV-E, Community Pathway, and Training &amp;amp; TA—track and monitor progress toward priority outcomes. They analyze data trends and can delegate issues to subcommittees for deeper analysis and planning. &amp;#xD;The Prevention CQI Collaborative will enhance regional learning and support data-driven improvement. It aims to review regional data, identify issues, and inform improvement strategies using local insights while promoting community-responsive solutions and peer learning. At the local level, the county/Tribal CQI Team(s) will play a crucial role by regularly reviewing local EBP prevention data, including reach, capacity, outcomes, and fidelity. They will conduct root cause analysis to understand local challenges and apply small tests of change to improve outcomes.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Now, let’s look at how the feedback loop travels back up the governance structure.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="First, county/Tribal CQI Implementation Team(s) will share data on root cause analysis and provide insights on improvement strategies, ensuring local experiences inform strategic decisions. They will also recommend investments needed to support meeting priority outcomes, connecting local needs to regional and state decision-makers.&amp;#xD;Next, the Prevention CQI Collaborative is planned to aggregate data from county/Tribal teams to identify regional trends and systemic challenges.&amp;#xD;Then, Statewide Committees receive aggregated insights from county/Tribal teams and regional representatives, using this data to inform statewide priorities and align strategies.&amp;#xD;Finally, the feedback loop circles back to the CDSS FFPS Team, using aggregated data from all levels of the feedback loop to refine statewide goals and identify priority outcomes. This closes the loop, ensuring statewide priorities are continuously refined based on real-time data and local experiences. To support this process, CARES Dashboards will provide real-time data access, ensuring decision-makers have the right information when they need it." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5ZLzkwL1Ef3.5xjenWhV9Ad" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="63">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4123,7 +4231,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.5qtsxlC9ohe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="61">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.5qtsxlC9ohe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="64">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4145,13 +4253,13 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.6Nb7ItaqIf8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="62">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.6Nb7ItaqIf8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="65">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Question #1, True or False: Disaggregating data helps the state and counties understand who is receiving which EBPs, how much they received, and if their outcomes are improving provides some insight into equitable practice. &amp;#xA;" /&gt;
+      &lt;Span Text="Question #1, True or False: Disaggregating data helps the state and counties understand who is receiving which EBPs, how much they received, and if their outcomes are improving provides some insight into equitable practice.&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4167,13 +4275,13 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.5nXbGnRj63p" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="63">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.5nXbGnRj63p" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="66">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Question #2, The regional Prevention CQI Collaborative (PCC) for counties to come together to share their FFPS/CPP successes and seek guidance to tackle challenges will convene how often? &amp;#xA;" /&gt;
+      &lt;Span Text="Question #2, The regional Prevention CQI Collaborative (PCC) for counties to come together to share their FFPS/CPP successes and seek guidance to tackle challenges will convene how often?&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
@@ -4201,10 +4309,10 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.6IIlHt1pVo9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="64">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.6IIlHt1pVo9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="67">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Question #3, True or False: CDSS is offering each county's/Tribe's the opportunity to select and compensate lived expert, community expert, and Tribal representative/advocate to support their FFPS CQI efforts? &amp;#xA;"&gt;
@@ -4212,6 +4320,14 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
@@ -4229,10 +4345,10 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.6nxrLfj0qlN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="65">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.6nxrLfj0qlN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="68">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Question #4, True or False: Compensated lived expert, community expert, and Tribal representative/advocate should attend all county's/Tribe's FFPS CQI Teams?&amp;#xA;"&gt;
@@ -4240,7 +4356,15 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Option 1: True&amp;#xA;"&gt;
@@ -4248,7 +4372,7 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Option 2: False"&gt;
@@ -4257,10 +4381,10 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.6K7lY8N3k4H" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="66">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.6K7lY8N3k4H" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="69">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Question #5, True or False: Counties may choose to have an existing Interagency Leadership Team (ILT) or cross-sector collaborative be the venue where CQI Team data is reviewed and strategies/decisions are made? &amp;#xA;"&gt;
@@ -4268,110 +4392,15 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Option 1: True&amp;#xA;"&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 2: False"&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.5zDnLOP1Iow" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="67">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Question #6, " /&gt;
-      &lt;Span Text="For counties implementing multiple FFPS evidence-based practices, this training recommended a maximum of how many county's/Tribe's EBP CQI Team(s)?"&gt;
-        &lt;Style FontFamily="Lato" FontSize="14" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="?&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 1: 1 county's/Tribe's EBP CQI Team&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 2: 12 county's/Tribe's EBP CQI Teams&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 3: 3 county's/Tribe's EBP CQI Teams" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.6luq3lBPj6B" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="68">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Question #7, CQI Teams are responsible for maintaining a CQI Data Infrastructure. Which of the following is a component of a CQI Data Infrastructure?&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 1: Data Collection&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 2: "&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="Data Management&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 3: "&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="Data Analysis &amp;amp; Interpretation&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Option 4: "&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="All of the above" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.5oeOfPFdDg4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="69">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Question #8, True or False: Disaggregating data by race, ethnicity, geography, and sex gives providers, counties, and the state an understanding of who is receiving and benefiting from which services? &amp;#xA;"&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
         &lt;Style FontIsBold="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Option 1: True&amp;#xA;"&gt;
@@ -4379,7 +4408,7 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Option 2: False"&gt;
@@ -4388,16 +4417,112 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.6B1s2UNkCYJ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="70">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.5zDnLOP1Iow" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="70">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Question #9, Fill in the blank: Regional CQI Collaboratives will be offered on a ____ basis beginning in the Fall of 2026.&amp;#xA;" /&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Question #6, For counties implementing multiple FFPS evidence-based practices, this training recommended a maximum of how many county's/Tribe's EBP CQI Team(s)?" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Option 1: 1 county's/Tribe's EBP CQI Team&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Option 2: 12 county's/Tribe's EBP CQI Teams&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Option 3: 3 county's/Tribe's EBP CQI Teams" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="61u5ekEpXf8.6luq3lBPj6B" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="71">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Question #7, CQI Teams are responsible for maintaining a CQI Data Infrastructure. Which of the following is a component of a CQI Data Infrastructure?" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Option 1: Data Collection&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Option 2: Data Management&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Option 3: Data Analysis &amp;amp; Interpretation&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Option 4: All of the above" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="61u5ekEpXf8.5oeOfPFdDg4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="72">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Question #8, True or False: Disaggregating data by race, ethnicity, geography, and sex gives providers, counties, and the state an understanding of who is receiving and benefiting from which services?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Option 1: True&amp;#xA;"&gt;
+        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Option 2: False"&gt;
+        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="61u5ekEpXf8.6B1s2UNkCYJ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="73">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Question #9, Fill in the blank: Regional CQI Collaboratives will be offered on a ____ basis beginning in April 2027.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Option 1: Weekly&amp;#xA;"&gt;
@@ -4405,33 +4530,27 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Option 2: "&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="Quarterly&amp;#xA;"&gt;
+      &lt;Span Text="Option 2: Quarterly&amp;#xA;"&gt;
         &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Option 3: "&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="Annual"&gt;
+      &lt;Span Text="Option 3: Annual"&gt;
         &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61u5ekEpXf8.6U6MTP4HN9f" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="71">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="61u5ekEpXf8.6U6MTP4HN9f" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="74">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Question #10, True or False: The state with an approved Family First Prevention Plan is required to track and monitor Family First CQI data.&amp;#xA;"&gt;
@@ -4439,7 +4558,15 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="18" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Option 1: True&amp;#xA;"&gt;
@@ -4447,7 +4574,7 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" FirstLineMargin="18" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="36" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Option 2: False"&gt;
@@ -4456,7 +4583,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6Aha1E8z0Am.5k3uQzQpK6o" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="72">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6Aha1E8z0Am.5k3uQzQpK6o" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="75">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4464,7 +4591,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6Aha1E8z0Am.5e1O2Hq6LWf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="73">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6Aha1E8z0Am.5e1O2Hq6LWf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="76">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4472,7 +4599,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6Aha1E8z0Am.6bCPKPm7HuD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="74">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6Aha1E8z0Am.6bCPKPm7HuD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="77">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0"&gt;
@@ -4482,7 +4609,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6Aha1E8z0Am.5gO14ssxnF0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="75">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6Aha1E8z0Am.5gO14ssxnF0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="78">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0"&gt;
@@ -4492,7 +4619,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6Aha1E8z0Am.6mPoPbNDQtb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="75">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6Aha1E8z0Am.6mPoPbNDQtb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="78">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" TrailingMargin="0"&gt;
@@ -4504,10 +4631,10 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6Aha1E8z0Am.6hCKoMTIjwT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="76">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6Aha1E8z0Am.6hCKoMTIjwT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="79">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style /&gt;
+      &lt;Style Justification="Center" /&gt;
       &lt;Span Text="Congratulations! You’ve completed all four e-learning CQI Modules. The final training component provides participants an opportunity to practice applying the CA 5-Step CQI Process to sample FFPS data sets. Participants will: &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
